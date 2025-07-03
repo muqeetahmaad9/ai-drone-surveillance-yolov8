@@ -12,8 +12,8 @@ To monitor real-time environmental changes (e.g., new objects, intrusions) using
 - Deployable on **Raspberry Pi 4**
 
 ## 🖼️ Sample Output
-![Result Screenshot](<img width="721" alt="v1" src="https://github.com/user-attachments/assets/62625c58-2bb3-4597-99ea-1d79d79a80cf" />
-)
+<img width="881" alt="re1" src="https://github.com/user-attachments/assets/cff77750-e6b2-461d-9a4a-10733d819452" />
+
 
 ## 📁 File Structure
 - `main.py`: Main script to run YOLOv8 and compare frames.
